@@ -1,5 +1,5 @@
 # Project OS
-Monitoring the System Resources and Their Usage
+Monitoring the OS & System Resources
 
 ## Tech Stack
 > Python, PyQT5, PyQtGraph, Psutil
